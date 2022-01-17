@@ -1,0 +1,2 @@
+msgid "api_get_error"
+msgstr "api is error"
